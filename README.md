@@ -25,9 +25,10 @@ We thank all the great [contributors](#contributors) very much.
 
 ![](https://img.shields.io/badge/zzz-D8D0E1) Adaptation
 
+The meaning of each tag can be referred to in the "Towards Graph Foundation Models: A Survey and Beyond" paper.
 
 ## 0. Survey Papers
-1. **Towards Graph Foundation Models: A Survey and Beyond.**. *Jiawei Liu, Cheng Yang, Zhiyuan Lu, Junze Chen, Yibo Li, Mengmei Zhang, Ting Bai, Yuan Fang, Lichao Sun, Philip S. Yu, Chuan Shi*. arXiv 2023.10. [[pdf](https://arxiv.org/pdf/2310.11829.pdf)]
+1. **Towards Graph Foundation Models: A Survey and Beyond**. *Jiawei Liu, Cheng Yang, Zhiyuan Lu, Junze Chen, Yibo Li, Mengmei Zhang, Ting Bai, Yuan Fang, Lichao Sun, Philip S. Yu, Chuan Shi*. arXiv 2023.10. [[pdf](https://arxiv.org/pdf/2310.11829.pdf)]
 
 
 ## 1. GNN-based Papers
