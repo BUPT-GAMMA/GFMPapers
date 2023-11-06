@@ -1,6 +1,4 @@
-# GFMPapers
-
-Must-read papers on graph foundation models (GFMs)
+<h2 align="center"><b>GFMPapers: Must-read papers on graph foundation models (GFMs)</b></h2>
 
 ![](https://img.shields.io/github/last-commit/BUPT-GAMMA/GFMpapers?color=blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
@@ -10,14 +8,14 @@ We thank all the great [contributors](#contributors) very much.
 
 ### Contents
 
-- [GFMPapers](#gfmpapers)
-    - [Contents](#contents)
-    - [Keywords Convention](#keywords-convention)
-  - [0. Survey Papers](#0-survey-papers)
-  - [1. GNN-based Papers](#1-gnn-based-papers)
-  - [2. LLM-based Papers](#2-llm-based-papers)
-  - [3. GNN+LLM-based Papers](#3-gnnllm-based-papers)
-  - [Contributors](#contributors)
+
+- [Contents](#contents)
+- [Keywords Convention](#keywords-convention)
+- [0. Survey Papers](#0-survey-papers)
+- [1. GNN-based Papers](#1-gnn-based-papers)
+- [2. LLM-based Papers](#2-llm-based-papers)
+- [3. GNN+LLM-based Papers](#3-gnnllm-based-papers)
+- [Contributors](#contributors)
 
 
 ### Keywords Convention
@@ -66,11 +64,11 @@ textual graph learning**. [[pdf](https://arxiv.org/pdf/2308.02565.pdf)] ![](http
 1. [ICLR 2023] **Learning on large-scale text-attributed graphs via variational inference**. [[pdf](https://arxiv.org/pdf/2210.14709.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/MLM-EAD8D9)  ![](https://img.shields.io/badge/Vanilla_FT-D8D0E1)
 1. [arxiv 2023.05] **Congrat: Self-supervised contrastive pretraining for joint graph and text embeddings**. [[pdf](https://arxiv.org/pdf/2305.14321.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/MLM+GTCL-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
 1. [SIGIR 2023] **Augmenting low-resource text classification with graph-grounded pre-training and prompting**. [[pdf](https://arxiv.org/pdf/2305.03324.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/GTCL-EAD8D9)  ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
-1. [arxiv 2020.08]**Graph-based modeling of online communities for fake news detection**. [[pdf](hhttps://arxiv.org/pdf/2008.06274.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/MLM-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
+1. [arxiv 2020.08] **Graph-based modeling of online communities for fake news detection**. [[pdf](hhttps://arxiv.org/pdf/2008.06274.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/MLM-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
 1. [EMNLP 2021] **Text2mol: Cross-modal molecule retrieval with natural language queries**.  [[pdf](https://aclanthology.org/2021.emnlp-main.47.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/MLM+GTC-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
 1. [arxiv 2022.09] **A molecular multimodal foundation model associating molecule graphs with natural language**. [[pdf](https://arxiv.org/pdf/2209.05481.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/MLM+GTC-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
 1. [arxiv 2022.12] **Multi-modal molecule structure-text model for text-based retrieval and editing**.  [[pdf](https://arxiv.org/pdf/2212.10789.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/MLM+GTC-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
-1. [PMLR 2023]**Enhancing activity prediction models in drug discovery with the ability to understand human language**.  [[pdf](https://arxiv.org/pdf/2303.03363.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/MLM+GTCL-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
+1. [PMLR 2023] **Enhancing activity prediction models in drug discovery with the ability to understand human language**.  [[pdf](https://arxiv.org/pdf/2303.03363.pdf)] ![](https://img.shields.io/badge/Symmetric-DCE7F1) ![](https://img.shields.io/badge/MLM+GTCL-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
 1. [arxiv 2023.04] **Graph-toolformer: To empower llms with graph reasoning ability via prompt augmented by chatgpt**.  [[pdf](https://arxiv.org/pdf/2304.11116.pdf)] ![](https://img.shields.io/badge/LLM--centric-DCE7F1) ![](https://img.shields.io/badge/LM-EAD8D9)  ![](https://img.shields.io/badge/Tuning--free_Prompting+Vanilla_FT-D8D0E1)
 
 
