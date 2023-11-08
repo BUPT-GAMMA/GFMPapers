@@ -58,7 +58,11 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 16. [NeurIPS 2020] **Graph contrastive learning with augmentations.**
 17. [arXiv 2023.04] **AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks.**
 18. [KDD 2023] **A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability.**
-19. 
+19. [arXiv 2022.09] **Universal Prompt Tuning for Graph Neural Networks.**
+20. [arXiv 2023.02] **SGL-PT: A Strong Graph Learner with Graph Prompt Tuning.**
+21. [arXiv 2020.01] **Graph-bert: Only attention is needed for learning graph representations.**
+22. [NeurIPS 2020] **Selfsupervised graph transformer on large-scale molecular data.**
+23. [arXiv 2023.05] **G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks.**
 
 
 ## 2. LLM-based Papers
