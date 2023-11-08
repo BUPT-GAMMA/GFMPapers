@@ -40,7 +40,7 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 1. [arXiv 2020.06] **Deep graph contrastive representation learning**. [[pdf](https://arxiv.org/pdf/2006.04131.pdf)] [[code](https://github.com/CRIPAC-DIG/GRACE)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Graph_Reconstruction/Same--Scale_CL-EAD8D9)  ![](https://img.shields.io/badge/Vanilla_FT-D8D0E1)
 1. [arXiv 2016.11] **Variational graph auto-encoders**. [[pdf](https://arxiv.org/pdf/1611.07308.pdf)] [[code](https://github.com/tkipf/gae)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Graph_Reconstruction/Graph_Reconstruction/Property_Prediction-EAD8D9)  ![](https://img.shields.io/badge/Vanilla_FT-D8D0E1)
 1. [AAAI 2023] **Ma-gcl: Model augmentation tricks for graph contrastive learning**. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/25547/25319)] [[code](https://github.com/GXM1141/MA-GCL)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Same--Scale_CL-EAD8D9)  ![](https://img.shields.io/badge/Vanilla_FT-D8D0E1)
-1. [KDD 2023] **All in One: Multi-Task Prompting for Graph Neural Networks.** [[pdf](https://www.researchgate.net/profile/Jia-Li-127/publication/371608827_All_in_One_Multi-Task_Prompting_for_Graph_Neural_Networks/links/648c2270c41fb852dd0a4f62/All-in-One-Multi-Task-Prompting-for-Graph-Neural-Networks.pdf)]
+1. [KDD 2023] **All in One: Multi-Task Prompting for Graph Neural Networks.** [[pdf](https://arxiv.org/abs/2307.01504)] [[code](https://github.com/sheldonresearch/ProG)]
 
 
 ## 2. LLM-based Papers
