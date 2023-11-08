@@ -32,7 +32,8 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 1. [arXiv 2023.10] **Towards Graph Foundation Models: A Survey and Beyond**. [[pdf](https://arxiv.org/pdf/2310.11829.pdf)]
 
 ## 1. GNN-based Papers
-
+1. [arXiv 2023.10] **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks** [[pdf](https://arxiv.org/abs/2310.15318)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
+1. [arXiv 2023.10] **Prompt Tuning for Multi-View Graph Contrastive Learning** [[pdf](https://arxiv.org/abs/2310.10362)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [KDD 2023] **All in One: Multi-Task Prompting for Graph Neural Networks**. [[pdf](https://www.researchgate.net/profile/Jia-Li-127/publication/371608827_All_in_One_Multi-Task_Prompting_for_Graph_Neural_Networks/links/648c2270c41fb852dd0a4f62/All-in-One-Multi-Task-Prompting-for-Graph-Neural-Networks.pdf)] ![](https://img.shields.io/badge/GCN/GAT/Graph_Transformer-DCE7F1) ![](https://img.shields.io/badge/Same--Scale_CL-EAD8D9)  ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [arXiv 2023.05] **PRODIGY: Enabling In-context Learning Over Graphs**. [[pdf](https://arxiv.org/pdf/2305.12600.pdf)] ![](https://img.shields.io/badge/GCN/GAT-DCE7F1) ![](https://img.shields.io/badge/Graph_Reconstruction/Supervised-EAD8D9)  ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [arXiv 2018.09] **Deep graph infomax**. [[pdf](https://arxiv.org/pdf/1809.10341)] [[code](https://github.com/PetarV-/DGI)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Graph_Reconstruction/Cross--Scale_CL-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
@@ -42,7 +43,8 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 
 
 ## 2. LLM-based Papers
-
+1. [arXiv 2023.10] **Talk Like a Graph: Encoding Graphs for Large Language Models** [[pdf](https://arxiv.org/abs/2310.04560)] ![](https://img.shields.io/badge/Manual_Prompt_Tuning-D8D0E1) 
+1. [arXiv 2023.09] **Can LLMs Effectively Leverage Graph Structural Information: When and Why** [[pdf](https://arxiv.org/abs/2309.16595)] ![](https://img.shields.io/badge/Manual_Prompt_Tuning-D8D0E1) 
 1. [arxiv 2023.05] **Gimlet: A unified graph-text model for instruction-based molecule zero-shot learning**. [[pdf](https://scholar.google.com/scholar_url?url=https://www.biorxiv.org/content/biorxiv/early/2023/06/01/2023.05.30.542904.full.pdf&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=8390578571473859304&ei=8QRCZbaEHIz5yATYnbjoDQ&scisig=AFWwaebONdO5ia5yjK3p4wA-pOf1)] ![](https://img.shields.io/badge/transformer-DCE7F1)
 2. [arxiv 2023.07] **Meta-Transformer: A Unified Framework for Multimodal Learning**. [[pdf](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2307.10802&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=11077145075852511910&ei=cgZCZZG8AcaKywSmq6XgCw&scisig=AFWwaeaAZA6AHtPdRvX0JnyNhv1F)] [[code](https://github.com/invictus717/MetaTransformer)] ![](https://img.shields.io/badge/transformer-DCE7F1)
 3. [arXiv 2023.08] **Natural language is all a graph needs**. [[pdf](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2308.07134&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=14935989239849530960&ei=WgdCZbaJFtqk6rQPkv-skA8&scisig=AFWwaeZJKMJktGJOJmeusMs1l5k1)] [[code](https://github.com/agiresearch/InstructGLM)] ![](https://img.shields.io/badge/Graph_to_token_+_Flan_T5,LLaMA-DCE7F1) ![](https://img.shields.io/badge/MLM,LM-EAD8D9) ![](https://img.shields.io/badge/Manual_Prompt_Tuning-D8D0E1) 
@@ -54,7 +56,10 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 9. [arxiv 2023.07] **Exploring the potential of large language models (llms) in learning on graphs** [[pdf](https://arxiv.org/pdf/2307.03393.pdf)] [[code](https://github.com/CurryTang/Graph-LLM)] ![](https://img.shields.io/badge/Graph_to_text_+_Bert,sBert,LLaMa,GPTs-DCE7F1) ![](https://img.shields.io/badge/LM,MLM-EAD8D9) ![](https://img.shields.io/badge/Manual_Prompt_Tuning_+_Automatic_Prompt_Tuning-D8D0E1)
 
 ## 3. GNN+LLM-based Papers
-1. [arxiv 2023.08] **Simteg: A frustratingly simple approach improves
+1. [arXiv 2023.10] **Label-free Node Classification on Graphs with Large Language Models (LLMs)** [[pdf](https://arxiv.org/abs/2310.04668)] ![](https://img.shields.io/badge/GNN--centric-DCE7F1) 
+1. [arXiv_2023.09] **One for All: Towards Training One Graph Model for All Classification Tasks** [[pdf](https://arxiv.org/abs/2310.00149)] ![](https://img.shields.io/badge/GNN--centric-DCE7F1) 
+1. [arXiv_2023.09] **Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**.[[pdf](https://arxiv.org/abs/2309.02848)] ![](https://img.shields.io/badge/GNN--centric-DCE7F1) 
+1. [arxiv 2023.08] **Simteg: A frustratingly simple approach improves 
 textual graph learning**. [[pdf](https://arxiv.org/pdf/2308.02565.pdf)] ![](https://img.shields.io/badge/GNN--centric-DCE7F1) ![](https://img.shields.io/badge/MLM,TTCL-EAD8D9)  ![](https://img.shields.io/badge/Parameter--EfficientFT-D8D0E1)
 1. [arxiv 2023.05] **Explanations as features: Llm-based features for text-attributed graphs**. [[pdf](https://arxiv.org/pdf/2305.19523.pdf)] ![](https://img.shields.io/badge/GNN--centric-DCE7F1) ![](https://img.shields.io/badge/LM-EAD8D9)  ![](https://img.shields.io/badge/Tuning--free_Prompting+Parameter--Efficient_FT-D8D0E1)
 1. [ICLR 2022] **Node feature extraction by self-supervised multi-scale neighborhood prediction**. [[pdf](https://arxiv.org/pdf/2111.00064.pdf)] ![](https://img.shields.io/badge/GNN--centric-DCE7F1) ![](https://img.shields.io/badge/MLM-EAD8D9)  ![](https://img.shields.io/badge/vanilla--FT-D8D0E1)
