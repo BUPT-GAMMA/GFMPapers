@@ -41,6 +41,24 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 1. [arXiv 2016.11] **Variational graph auto-encoders**. [[pdf](https://arxiv.org/pdf/1611.07308.pdf)] [[code](https://github.com/tkipf/gae)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Graph_Reconstruction/Graph_Reconstruction/Property_Prediction-EAD8D9)  ![](https://img.shields.io/badge/Vanilla_FT-D8D0E1)
 1. [AAAI 2023] **Ma-gcl: Model augmentation tricks for graph contrastive learning**. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/25547/25319)] [[code](https://github.com/GXM1141/MA-GCL)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Same--Scale_CL-EAD8D9)  ![](https://img.shields.io/badge/Vanilla_FT-D8D0E1)
 1. [KDD 2023] **All in One: Multi-Task Prompting for Graph Neural Networks.** [[pdf](https://arxiv.org/abs/2307.01504)] [[code](https://github.com/sheldonresearch/ProG)] ![](https://img.shields.io/badge/Same--Scale_CL-EAD8D9) ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
+2. [arXiv 2023.05] **PRODIGY: Enabling In-context Learning Over Graphs.**
+3. [ICLR 2019] **Deep graph infomax.**
+4. [arXiv 2020.06] **Deep graph contrastive representation learning.**
+5. [arXiv 2016.11] **Variational graph auto-encoders.**
+6. [AAAI 2023] **Ma-gcl: Model augmentation tricks for graph contrastive learning.**
+7. [KDD 2022] **Graphmae: Self-supervised masked graph autoencoders.**
+8. [WWW 2023] **GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner.**
+9. [KDD 2022] **Gppt: Graph pre-training and prompt tuning to generalize graph neural networks.**
+10. [CIKM 2023] **Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks.**
+11. [KDD 2020] **Gpt-gnn: Generative pre-training of graph neural networks.**
+12. [KDD 2021] **Pre-training on large-scale heterogeneous graph.**
+13. [CIKM 2021] **Contrastive pre-training of GNNs on heterogeneous graphs.**
+14. [WWW 2023] **Graphprompt: Unifying pre-training and downstream tasks for graph neural networks.**
+15. [KDD 2020] **Gcc: Graph contrastive coding for graph neural network pre-training.**
+16. [NeurIPS 2020] **Graph contrastive learning with augmentations.**
+17. [arXiv 2023.04] **AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks.**
+18. [KDD 2023] **A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability.**
+19. 
 
 
 ## 2. LLM-based Papers
