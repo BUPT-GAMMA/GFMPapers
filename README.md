@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/last-commit/BUPT-GAMMA/GFMpapers?color=blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-This list is currently maintained members in BUPT GAMMA Lab. 
+This list is currently maintained by members in BUPT GAMMA Lab. 
 
 We thank all the great [contributors](#contributors) very much.
 
