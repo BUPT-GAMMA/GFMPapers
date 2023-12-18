@@ -39,6 +39,8 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 5. [arXiv 2023.12] **Large Language Models on Graphs: A Comprehensive Survey**. [[pdf](https://arxiv.org/pdf/2312.02783.pdf)][[paperlist](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
 ## 1. GNN-based Papers
+1. [arXiv 2023.10] **Enhancing Graph Neural Networks with Structure-Based Prompt** [[pdf](https://arxiv.org/pdf/2310.17394.pdf)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
+1. [arXiv 2023.11] **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs** [[pdf](https://arxiv.org/pdf/2312.03731.pdf)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [arXiv 2023.10] **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks** [[pdf](https://arxiv.org/abs/2310.15318)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [arXiv 2023.10] **Prompt Tuning for Multi-View Graph Contrastive Learning** [[pdf](https://arxiv.org/abs/2310.10362)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [arXiv 2023.05] **PRODIGY: Enabling In-context Learning Over Graphs**. [[pdf](https://arxiv.org/pdf/2305.12600.pdf)] ![](https://img.shields.io/badge/GCN/GAT-DCE7F1) ![](https://img.shields.io/badge/Graph_Reconstruction/Supervised-EAD8D9)  ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
