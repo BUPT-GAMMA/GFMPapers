@@ -2,9 +2,11 @@
 
 ![](https://img.shields.io/github/last-commit/BUPT-GAMMA/GFMpapers?color=blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-This list is currently maintained by members in BUPT GAMMA Lab. 
+This list is currently maintained by members in BUPT GAMMA Lab. If you like our project, please give us a star ⭐ on GitHub for the latest update.
 
 We thank all the great [contributors](#contributors) very much.
+
+⭐[News] We will hold a tutorial about [graph foundation model](https://arxiv.org/pdf/2310.11829.pdf) at the [WebConf 2024](https://www2024.thewebconf.org/)! See you at Singapore! graph foundation model.
 
 ### Contents
 
