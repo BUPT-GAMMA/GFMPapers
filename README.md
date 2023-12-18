@@ -6,7 +6,7 @@ This list is currently maintained by members in BUPT GAMMA Lab. If you like our 
 
 We thank all the great [contributors](#contributors) very much.
 
-⭐[News] We will hold a tutorial about [graph foundation model](https://arxiv.org/pdf/2310.11829.pdf) at the [WebConf 2024](https://www2024.thewebconf.org/)! See you at Singapore! graph foundation model.
+⭐[News] We will hold a tutorial about [graph foundation model](https://arxiv.org/pdf/2310.11829.pdf) at the [WebConf 2024](https://www2024.thewebconf.org/)! See you at Singapore!
 
 ### Contents
 
