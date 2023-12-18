@@ -29,11 +29,11 @@ We thank all the great [contributors](#contributors) very much.
 The meaning of each tag can be referred to in the "Towards Graph Foundation Models: A Survey and Beyond" paper.
 
 ## 0. Survey Papers
-1. [arXiv 2023.8] **Graph Meets LLMs: Towards Large Graph Models**. [[pdf](https://arxiv.org/pdf/2308.14522.pdf)][[code](https://github.com/THUMNLab/awesome-large-graph-model)]
+1. [arXiv 2023.8] **Graph Meets LLMs: Towards Large Graph Models**. [[pdf](https://arxiv.org/pdf/2308.14522.pdf)][[paperlist](https://github.com/THUMNLab/awesome-large-graph-model)]
 2. [arXiv 2023.10] **Integrating Graphs with Large Language Models: Methods and Prospects**. [[pdf](https://arxiv.org/pdf/2310.05499.pdf)]
-3. [arXiv 2023.10] **Towards Graph Foundation Models: A Survey and Beyond**. [[pdf](https://arxiv.org/pdf/2310.11829.pdf)][[code](https://github.com/BUPT-GAMMA/GFMPapers)]
-4. [arXiv 2023.11] **A Survey of Graph Meets Large Language Model: Progress and Future Directions**. [[pdf](https://arxiv.org/pdf/2311.12399.pdf)][[code](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
-5. [arXiv 2023.12] **Large Language Models on Graphs: A Comprehensive Survey**. [[pdf](https://arxiv.org/pdf/2312.02783.pdf)][[code](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
+3. [arXiv 2023.10] **Towards Graph Foundation Models: A Survey and Beyond**. [[pdf](https://arxiv.org/pdf/2310.11829.pdf)][[paperlist](https://github.com/BUPT-GAMMA/GFMPapers)]
+4. [arXiv 2023.11] **A Survey of Graph Meets Large Language Model: Progress and Future Directions**. [[pdf](https://arxiv.org/pdf/2311.12399.pdf)][[paperlist](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
+5. [arXiv 2023.12] **Large Language Models on Graphs: A Comprehensive Survey**. [[pdf](https://arxiv.org/pdf/2312.02783.pdf)][[paperlist](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
 ## 1. GNN-based Papers
 1. [arXiv 2023.10] **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks** [[pdf](https://arxiv.org/abs/2310.15318)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
