@@ -1,7 +1,7 @@
 <h2 align="center"><b>GFMPapers: Must-read papers on graph foundation models (GFMs)</b></h2>
 
-<a href="https://github.com/BUPT-GAMMA/GFMPapers/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-green" alt="PRs"></a>
-    <a href="https://github.com/BUPT-GAMMA/GFMPapers/"><img src="https://awesome.re/badge.svg" alt="awesome"></a> ![](https://img.shields.io/github/last-commit/BUPT-GAMMA/GFMpapers?color=blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+<a href="https://github.com/BUPT-GAMMA/GFMPapers/"><img src="https://awesome.re/badge.svg" alt="awesome"></a> <a href="https://github.com/BUPT-GAMMA/GFMPapers/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-green" alt="PRs"></a>
+     ![](https://img.shields.io/github/last-commit/BUPT-GAMMA/GFMpapers?color=blue)  
 
 This list is currently maintained by members in BUPT GAMMA Lab. If you like our project, please give us a star ⭐ on GitHub for the latest update.
 
