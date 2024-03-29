@@ -40,6 +40,7 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 6. [arXiv 2024.2] **Graph Foundation Models**. [[pdf](https://arxiv.org/pdf/2402.02216.pdf)][[paperlist](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-)][[paperlist2](https://github.com/CurryTang/Towards-graph-foundation-models)]
 7. [arXiv 2024.2] **Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques**. [[pdf](https://arxiv.org/pdf/2402.05952.pdf)]
 8. [arXiv 2024.2] **Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**. [[pdf](https://arxiv.org/pdf/2402.11641.pdf)]
+9. [arXiv 2024.3] **A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective**. [[pdf](https://arxiv.org/pdf/2403.16137.pdf)][[paperlist](https://github.com/Newiz430/Pretext)]
 ## 1. GNN-based Papers
 1. [arXiv 2023.10] **Enhancing Graph Neural Networks with Structure-Based Prompt** [[pdf](https://arxiv.org/pdf/2310.17394.pdf)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [arXiv 2023.11] **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs** [[pdf](https://arxiv.org/pdf/2312.03731.pdf)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
