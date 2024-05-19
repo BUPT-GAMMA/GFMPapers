@@ -42,6 +42,7 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 8. [arXiv 2024.2] **Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**. [[pdf](https://arxiv.org/pdf/2402.11641.pdf)]
 9. [arXiv 2024.3] **A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective**. [[pdf](https://arxiv.org/pdf/2403.16137.pdf)][[paperlist](https://github.com/Newiz430/Pretext)]
 10. [arXiv 2024.4] **Graph Machine Learning in the Era of Large Language Models (LLMs)**. [[pdf](https://arxiv.org/pdf/2404.14928.pdf)]
+11. [arXiv 2024.5] **A Survey of Large Language Models for Graphs**. [[pdf](https://arxiv.org/pdf/2405.08011.pdf)]
 ## 1. GNN-based Papers
 1. [arXiv 2023.10] **Enhancing Graph Neural Networks with Structure-Based Prompt** [[pdf](https://arxiv.org/pdf/2310.17394.pdf)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 1. [arXiv 2023.11] **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs** [[pdf](https://arxiv.org/pdf/2312.03731.pdf)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
