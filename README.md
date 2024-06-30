@@ -73,7 +73,7 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 1. [ICLR 2019] **Deep graph infomax**. [[pdf](https://arxiv.org/pdf/1809.10341)] [[code](https://github.com/PetarV-/DGI)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Graph_Reconstruction/Cross--Scale_CL-EAD8D9)  ![](https://img.shields.io/badge/Parameter--Efficient_FT-D8D0E1)
 1. [arXiv 2016.11] **Variational graph auto-encoders**. [[pdf](https://arxiv.org/pdf/1611.07308.pdf)] [[code](https://github.com/tkipf/gae)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Graph_Reconstruction/Property_Prediction-EAD8D9)  ![](https://img.shields.io/badge/Vanilla_FT-D8D0E1)
 2. [TKDE 2024] **Generalized graph prompt: Toward a unification of pretraining and downstream tasks on graphs** [[pdf](https://arxiv.org/pdf/2311.15317)] ![](https://img.shields.io/badge/GIN-DCE7F1) ![](https://img.shields.io/badge/Cross--Scale_CL/Same--Scale_CL/Graph_Reconstruction-EAD8D9) ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
-3. [WWW 2024] **Multigprompt for multi-task pre-training and prompting on graphs** [[pdf](https://arxiv.org/pdf/2312.03731)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Same--Scale_CL-EAD8D9) ![](https://img.shields.io/badge/Vanilla_FT-D8D0E1)
+3. [WWW 2024] **Multigprompt for multi-task pre-training and prompting on graphs** [[pdf](https://arxiv.org/pdf/2312.03731)] ![](https://img.shields.io/badge/GCN-DCE7F1) ![](https://img.shields.io/badge/Cross--Scale_CL/Graph_Reconstruction-EAD8D9) ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 
 
 ## 2. LLM-based Papers
