@@ -7,7 +7,7 @@ This list is currently maintained by members in BUPT GAMMA Lab. If you like our 
 
 We thank all the great [contributors](#contributors) very much.
 
-⭐[News] We will hold a tutorial about [graph foundation model](https://arxiv.org/pdf/2310.11829.pdf) at the [WebConf 2024](https://www2024.thewebconf.org/)! See you at Singapore!
+⭐ We have held a tutorial about [graph foundation model](https://arxiv.org/pdf/2310.11829.pdf) at the [WebConf 2024](https://www2024.thewebconf.org/)! Here is the tutorial. [[part1](http://www.shichuan.org/doc/WWW24Tutorial_GFM_Part1.pdf)][[part2](http://www.shichuan.org/doc/WWW24Tutorial_GFM_Part2.pdf)][[part3](http://www.shichuan.org/doc/WWW24Tutorial_GFM_Part3.pdf)]
 
 ### Contents
 
@@ -19,6 +19,7 @@ We thank all the great [contributors](#contributors) very much.
 - [2. LLM-based Papers](#2-llm-based-papers)
 - [3. GNN+LLM-based Papers](#3-gnnllm-based-papers)
 - [4. Benchmarks and Datasets](#4-benchmarks-and-datasets)
+- [5. Other papers](#5-other-papers)
 - [Contributors](#contributors)
 
 
@@ -129,7 +130,8 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 3. [ICLR 2024] **Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets.** [[pdf](https://arxiv.org/abs/2310.04292)] ![](https://img.shields.io/badge/Molecule-DCE7F1)
 4. [Nature] **Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing.** [[pdf](https://www.nature.com/articles/s42256-023-00759-6)] ![](https://img.shields.io/badge/Molecule-DCE7F1) ![](https://img.shields.io/badge/Text_Attributed_Graph-EAD8D9)
 
-
+## 5. Other papers
+1. [ICLR 2024] **Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models.** [[pdf](https://openreview.net/forum?id=SBoRhRCzM3)]
 
 
 ## Contributors
