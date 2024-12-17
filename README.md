@@ -83,6 +83,7 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 9. [WSDM 2024] **S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking** [[pdf](https://dl.acm.org/doi/pdf/10.1145/3539597.3570404)]
 10. [NeurIPS 2024] **Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach** [[pdf](https://arxiv.org/pdf/2410.10341)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
 11. [NeurIPS 2024] **FUG: Feature-Universal Graph Contrastive Pre-training for Graphs with Diverse Node Features** [[pdf](https://openreview.net/pdf?id=VUuOsBrqaw)] ![](https://img.shields.io/badge/Same--Scale_CL-EAD8D9)
+12. [KDD 2024] **All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining** [[pdf](https://arxiv.org/pdf/2402.09834)] ![](https://img.shields.io/badge/Same--Scale_CL-EAD8D9) 
 
 ## 2. LLM-based Papers
 1. [arXiv 2023.10] **Talk Like a Graph: Encoding Graphs for Large Language Models** [[pdf](https://arxiv.org/abs/2310.04560)] ![](https://img.shields.io/badge/Manual_Prompt_Tuning-D8D0E1) 
