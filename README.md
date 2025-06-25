@@ -39,7 +39,7 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 3. [KDD 2024] **A Survey of Large Language Models for Graphs**. [[pdf](https://arxiv.org/pdf/2405.08011.pdf)]
 4. [KDD 2024] **Graph Intelligence with Large Language Models and Prompt Learning**. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3637528.3671456)]
 5. [arXiv 2023.8] **Graph Meets LLMs: Towards Large Graph Models**. [[pdf](https://arxiv.org/pdf/2308.14522.pdf)][[paperlist](https://github.com/THUMNLab/awesome-large-graph-model)]
-6. [arXiv 2023.10] **Integrating Graphs with Large Language Models: Methods and Prospects**. [[pdf](https://arxiv.org/pdf/2310.05499.pdf)]
+6. [IEEE Intelligent Systems] **Integrating Graphs with Large Language Models: Methods and Prospects**. [[pdf](https://arxiv.org/pdf/2310.05499.pdf)]
 7. [arXiv 2023.10] **Towards Graph Foundation Models: A Survey and Beyond**. [[pdf](https://arxiv.org/pdf/2310.11829.pdf)][[paperlist](https://github.com/BUPT-GAMMA/GFMPapers)]
 8. [arXiv 2023.11] **A Survey of Graph Meets Large Language Model: Progress and Future Directions**. [[pdf](https://arxiv.org/pdf/2311.12399.pdf)][[paperlist](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
 9. [arXiv 2024.2] **Graph Foundation Models**. [[pdf](https://arxiv.org/pdf/2402.02216.pdf)][[paperlist](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-)][[paperlist2](https://github.com/CurryTang/Towards-graph-foundation-models)]
