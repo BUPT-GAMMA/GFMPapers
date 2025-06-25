@@ -47,7 +47,7 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 11. [arXiv 2024.2] **Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**. [[pdf](https://arxiv.org/pdf/2402.11641.pdf)]
 12. [arXiv 2024.3] **A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective**. [[pdf](https://arxiv.org/pdf/2403.16137.pdf)][[paperlist](https://github.com/Newiz430/Pretext)]
 13. [arXiv 2024.4] **A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications**. [[pdf](https://arxiv.org/pdf/2404.14809.pdf)]
-14. [arXiv 2024.4] **Graph Machine Learning in the Era of Large Language Models (LLMs)**. [[pdf](https://arxiv.org/pdf/2404.14928.pdf)]
+14. [TIST 2024] **Graph Machine Learning in the Era of Large Language Models (LLMs)**. [[pdf](https://arxiv.org/pdf/2404.14928.pdf)]
 15. [arXiv 2024.12] **Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**. [[pdf](https://arxiv.org/pdf/2412.12456.pdf)]
 16. [arXiv 2025.3] **Towards Graph Foundation Models: A Transferability Perspective**. [[pdf](https://arxiv.org/pdf/2503.09363.pdf)]
 17. [arXiv 2025.5] **Graph Foundation Models: A Comprehensive Survey**. [[pdf](https://www.arxiv.org/pdf/2505.15116.pdf)]
