@@ -52,6 +52,7 @@ The meaning of each tag can be referred to in the "Towards Graph Foundation Mode
 16. [arXiv 2025.3] **Towards Graph Foundation Models: A Transferability Perspective**. [[pdf](https://arxiv.org/pdf/2503.09363.pdf)]
 17. [arXiv 2025.5] **Graph Foundation Models: A Comprehensive Survey**. [[pdf](https://www.arxiv.org/pdf/2505.15116.pdf)]
 18. [arXiv 2025.5] **Using Large Language Models to Tackle Fundamental Challenges in Graph Learning: A Comprehensive Survey**. [[pdf](https://arxiv.org/pdf/2505.18475.pdf)]
+19. [arXiv 2025.6] **Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities**. [[pdf](https://arxiv.org/pdf/2506.18019.pdf)]
 
 ## 1. GNN-based Papers
 1. [arXiv 2023.10] **Enhancing Graph Neural Networks with Structure-Based Prompt** [[pdf](https://arxiv.org/pdf/2310.17394.pdf)] ![](https://img.shields.io/badge/Prompt--Tuning-D8D0E1)
